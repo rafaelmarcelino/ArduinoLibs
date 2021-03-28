@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IOHandler
+####################################### 
+# Class
+#######################################
+
+IOHandler		KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+defThisPinAsInput       KEYWORD2
+defThesePinsAsInputs    KEYWORD2
+getStatusInput          KEYWORD2
+
+defThisPinAsOutput      KEYWORD2
+defThesePinsAsOutputs   KEYWORD2
+setEnergized            KEYWORD2    
+setDeEnergized          KEYWORD2
+changeStateOutput       KEYWORD2
+writeStatusOnOutput     KEYWORD2
+
+#######################################
+# Constants 
+#######################################	

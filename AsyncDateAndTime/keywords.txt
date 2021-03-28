@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For AsyncDateAndTime
+####################################### 
+# Class
+#######################################
+
+AsyncDateAndTime	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+setupDateAndTime    KEYWORD2
+generateAsyncClok	KEYWORD2
+getDate				KEYWORD2
+setYear				KEYWORD2
+getYear				KEYWORD2
+setMonth			KEYWORD2
+getMonth			KEYWORD2
+setDay				KEYWORD2
+getDay				KEYWORD2
+setHour				KEYWORD2
+getHour				KEYWORD2
+setMinute			KEYWORD2
+getMinute			KEYWORD2
+setSecond			KEYWORD2
+getSecond			KEYWORD2
+setMilisecond		KEYWORD2
+getMilisecond		KEYWORD2
+getTime				KEYWORD2
+getDateAndTime		KEYWORD2
+    
+#######################################
+# Constants
+#######################################

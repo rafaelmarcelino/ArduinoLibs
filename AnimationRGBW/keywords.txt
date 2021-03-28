@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For AnimationRGBW
+####################################### 
+# Class
+#######################################
+
+AnimationRGBW		KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+getDinamycRangeOfColor  KEYWORD2
+pulseColor              KEYWORD2
+incrementPixelByTime    KEYWORD2
+
+#######################################
+# Constants
+#######################################

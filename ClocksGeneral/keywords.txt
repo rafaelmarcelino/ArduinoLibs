@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map For ClocksGeneral
+####################################### 
+# Class
+#######################################
+
+ClocksGeneral           KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+getLastCycleTime    KEYWORD2
+getClockInThisTime  KEYWORD2
+
+#######################################
+# Constants
+#######################################	

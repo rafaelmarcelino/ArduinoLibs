@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "examples\\ExampleToolsGeneral\\ExampleToolsGeneral.ino",
+    "port": "COM1"
+}
